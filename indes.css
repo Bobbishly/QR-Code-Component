@@ -1,0 +1,32 @@
+.one {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 20px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.damn {
+    text-align: center;
+}
+
+.cool {
+    background-color: hsl(212, 45%, 89%);
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+}
+
+h3 {
+    color: hsl(218, 44%, 22%);
+}
+
+.attribution { 
+    font-size: 11px; text-align: center;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
