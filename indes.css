@@ -7,6 +7,14 @@
     background-color: hsl(0, 0%, 100%);
 }
 
+@media screen and (max-width: 800px) {
+    .one {
+        margin: 20px;
+        padding: 20px;
+        background-color: hsl(0, 0%, 100%);
+    }
+}
+
 .damn {
     text-align: center;
 }
@@ -23,10 +31,11 @@ h3 {
     color: hsl(218, 44%, 22%);
 }
 
-.attribution { 
-    font-size: 11px; text-align: center;
+.attribution {
+    font-size: 11px;
+    text-align: center;
 }
 
-.attribution a { 
+.attribution a {
     color: hsl(228, 45%, 44%);
 }
